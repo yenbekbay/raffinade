@@ -1,6 +1,6 @@
 # Raffinade
 
-I made this Wordpress theme for sale on ThemeForest back in 2012. It was quite succesful with more than 120 sales, but after a year, was taken dow due to insufficient support of the latest Wordpress releases.
+I made this Wordpress theme for sale on ThemeForest back in 2012. It was quite succesful with more than 120 sales, but after a year, was taken down due to insufficient support of the latest Wordpress releases.
 
 It features skeuomorphic design, which was popular at a time.
 
