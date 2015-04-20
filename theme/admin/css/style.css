@@ -1,0 +1,71 @@
+tr {
+	border-bottom: 1px solid #f0f0f0;
+	display: block;
+	padding: 10px 0;
+}
+tr:last-child {
+	border: none;
+}
+th {
+	font: bold 14px Helvetica Neue, Helvetica, Arial, sans-serif!important;
+}
+td {
+	padding-left: 30px!important;
+}
+.description {
+	display: block;
+	margin-top: 7px;
+	font-weight: normal;
+	font-style: italic;
+}
+img.uploaded {
+	margin-bottom: 10px;
+}
+.row {
+	padding: 7px 0;
+	border-bottom: 1px solid #f0f0f0;
+	overflow: auto;
+}
+.first {
+	padding-top: 0;
+}
+.row input[type="text"] { 
+	float: right;
+}
+#twitter-username, #fb_id {
+	display: none;
+	padding-top: 2px;
+}
+.row:last-child {
+	border: none;
+	padding-bottom: 0;
+}
+td label  {
+	margin-right: 10px;
+}
+.noborder {
+	border: none;
+}
+span.small {
+	font-style: italic;
+	margin: 0 15px;
+}
+.layout-radio:parent {
+	width: 510px;
+}
+.layout-radio label {
+	display: block;
+	float: left;
+	margin: 0 30px 20px 2px;
+	position: relative;
+}
+.layout-radio input {
+	margin: 0 0 10px;
+}
+.layout-radio span {
+	display: block;
+	width: 136px;
+}
+.layout-radio img {
+	margin: 0 0 0 -2px;
+}

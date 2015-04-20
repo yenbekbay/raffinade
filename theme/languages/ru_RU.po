@@ -1,0 +1,807 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Raffinade 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: exultic <ayan@exultic.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:10,
+#: 404.php:23
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+#: 404.php:26
+msgid "Return to "
+msgstr "Вернуться к "
+
+#: archive.php:19
+#, php-format
+msgid "Category: %s"
+msgstr "Категория: %s"
+
+#: archive.php:21
+#, php-format
+msgid "Tag: %s"
+msgstr "Метка: %s"
+
+#: archive.php:23
+msgid "aside"
+msgstr "заметки"
+
+#: archive.php:23
+msgid "audio"
+msgstr "аудиозаписи"
+
+#: archive.php:23
+msgid "chat"
+msgstr "диалоги"
+
+#: archive.php:23
+msgid "gallery"
+msgstr "галереи"
+
+#: archive.php:23
+msgid "image"
+msgstr "изображения"
+
+#: archive.php:23
+msgid "link"
+msgstr "ссылки"
+
+#: archive.php:23
+msgid "quote"
+msgstr "цитаты"
+
+#: archive.php:23
+msgid "video"
+msgstr "видеозаписи"
+
+#: archive.php:25
+#: archive.php:27
+#, php-format
+msgid "Archive for %s"
+msgstr "Архив за %s"
+
+#: archive.php:29
+#, php-format
+msgid "Archive for %s year"
+msgstr "Архив за %s год"
+
+#: archive.php:31
+msgid "Author: "
+msgstr "Автор: "
+
+#: archive.php:34
+msgid "Blog Archives"
+msgstr "Архив блога"
+
+#: archive.php:48
+#: index.php:16
+#: search.php:22
+msgid "&larr; Older posts"
+msgstr "&larr; Ранние записи"
+
+#: archive.php:49
+#: index.php:17
+#: search.php:23
+msgid "Newer posts &rarr;"
+msgstr "Поздние записи &rarr;"
+
+#: sitemap.php:19
+msgid "Archives"
+msgstr "Архивы"
+
+#: sitemap.php:25
+msgid "Categories"
+msgstr "Категории"
+
+#: sitemap.php:29
+msgid "Formats"
+msgstr "Форматы"
+
+#: sitemap.php:31
+msgid "Aside"
+msgstr "Заметки"
+
+#: sitemap.php:32
+msgid "Audio"
+msgstr "Аудиозаписи"
+
+#: sitemap.php:33
+msgid "Chats"
+msgstr "Диалоги"
+
+#: sitemap.php:34
+msgid "Galleries"
+msgstr "Галереи"
+
+#: sitemap.php:35
+msgid "Images"
+msgstr "Изображения"
+
+#: sitemap.php:36
+msgid "Links"
+msgstr "Ссылки"
+
+#: sitemap.php:37
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: sitemap.php:38
+msgid "Video"
+msgstr "Видеозаписи"
+
+#: comments.php:3
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Эта запись защищена паролем. Введите пароль для просмотра комментариев."
+
+#: comments.php:11
+msgid "Comments"
+msgstr "Комментарии"
+
+#: comments.php:13
+msgid "Leave a reply &rarr;"
+msgstr "Написать комментарий &rarr;"
+
+#: comments.php:20
+msgid "&larr; Older Comments"
+msgstr "&larr; Ранние комментарии"
+
+#: comments.php:21
+msgid "Newer Comments &rarr;"
+msgstr "Поздние комментарии &rarr;"
+
+#: comments.php:27
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:34
+msgid "Required fields are marked"
+msgstr "Обязательные поля отмечены"
+
+#: comments.php:36
+msgctxt "noun"
+msgid "Message"
+msgstr "Комментарий"
+
+#: functions.php:144
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: functions.php:163
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:151
+#: functions.php:163
+#: content-aside.php:16
+#: content-audio.php:18
+#: content-chat.php:16
+#: content-gallery.php:17
+#: content-image.php:17
+#: content-link.php:12
+#: content-page.php:11
+#: content-quote.php:12
+#: content-video.php:18
+msgid "[edit]"
+msgstr "[изменить]"
+
+#: functions.php:98
+#: functions.php:759
+msgid "Continue reading &rarr;"
+msgstr "Читать далее &rarr;"
+
+#: functions.php:790
+msgid "View comments"
+msgstr "Посмотреть комментарии"
+
+#: functions.php:805
+msgid "I like it!"
+msgstr "Мне нравится!"
+
+#: searchform.php:2
+msgid "Search"
+msgstr "Поиск"
+
+#: functions.php:20
+msgid "Primary Navigation"
+msgstr "Основная навигация"
+
+#: functions.php:32
+msgid "Main sidebar"
+msgstr "Основная боковая колонка"
+
+#: functions.php:39
+msgid "Page sidebar"
+msgstr "Боковая колонка страниц"
+
+#: functions.php:46
+msgid "Post sidebar"
+msgstr "Боковая колонка записей"
+
+#: functions.php:506
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: search.php:9
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: search.php:31
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: search.php:35
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Извините, но ничего не найдено. Пожалуйста, попробуйте еще раз используя другие ключевые слова."
+
+#: single.php:15
+msgctxt "Previous post link"
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+#: single.php:16
+msgctxt "Next post link"
+msgid "Next Post"
+msgstr "Следующая запись"
+
+#: functions.php:680
+msgid "Log in"
+msgstr "Войти"
+
+#: functions.php:681
+msgid "or"
+msgstr "или"
+
+#: functions.php:645
+msgid "Sign up"
+msgstr "Зарегистрироваться"
+
+#: functions.php:690
+msgid "Log out"
+msgstr "Выйти"
+
+#: functions.php:275
+msgid "Attachments"
+msgstr "Прикреплено"
+
+#: admin/theme-options.php:9
+#: admin/theme-options.php:10
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: admin/theme-options.php:53
+msgid "General"
+msgstr "Основные"
+
+#: admin/theme-options.php:54
+msgid "Post"
+msgstr "Запись"
+
+#: admin/theme-options.php:55
+msgid "SEO"
+msgstr "SEO"
+
+#: admin/theme-options.php:100
+msgid "Plain Text Logo"
+msgstr "Текстовый логотип"
+
+#: admin/theme-options.php:100
+msgid "Check this box to use a plain text logo rather than upload an image. Site name will be used."
+msgstr "Отметьте этот чекбокс, чтобы использовать текстовый логотип вместо изображения логотипа. В качестве текста будет использовано название сайта."
+
+#: admin/theme-options.php:108
+msgid "Custom Logo"
+msgstr "Логотип"
+
+#: admin/theme-options.php:108
+msgid "Upload your custom logo (not more than 300px wide)."
+msgstr "Загрузите ваш логотип (не больше 300px в ширину)."
+
+#: admin/theme-options.php:116
+msgid "Custom Favicon"
+msgstr "Favicon"
+
+#: admin/theme-options.php:116
+msgid "Upload your custom favicon."
+msgstr "Загрузите ваш favicon."
+
+#: admin/theme-options.php:124
+msgid "Custom Apple Touch Icon"
+msgstr "Apple Touch Icon"
+
+#: admin/theme-options.php:124
+msgid "Upload your custom apple touch icon (144px x 144px)."
+msgstr "Загрузите ваш apple touch icon (144px x 144px)."
+
+#: admin/theme-options.php:441
+#: admin/theme-options.php:450
+msgid "Uploading"
+msgstr "Загружаю"
+
+#: admin/theme-options.php:475
+msgid "Removing"
+msgstr "Удаляю"
+
+#: admin/theme-options.php:479
+msgid "Remove"
+msgstr "Удалить"
+
+#: admin/theme-options.php:132
+msgid "Header Login"
+msgstr "Ссылки на вход/выход"
+
+#: admin/theme-options.php:132
+msgid "Check this box to show user login block in header."
+msgstr "Отметьте этот чекбокс, чтобы показывать ссылки на вход/выход."
+
+#: admin/theme-options.php:140
+msgid "Default Layout"
+msgstr "Разметка по умолчанию"
+
+#: admin/theme-options.php:140
+msgid "Choose if you want your site&#8217;s default layout to have a sidebar on the left, the right, or not at all."
+msgstr "Выберите, будет ли боковая колонка на вашем сайте располагаться слева, справа или вообще отсутствовать."
+
+#: admin/theme-options.php:506
+msgid "Content on left"
+msgstr "Содержимое слева"
+
+#: admin/theme-options.php:511
+msgid "Content on right"
+msgstr "Содержимое справа"
+
+#: admin/theme-options.php:515
+msgid "One-column, no sidebar"
+msgstr "Одна колонка"
+
+#: admin/theme-options.php:148
+msgid "Footer Text"
+msgstr "Текст футера"
+
+#: admin/theme-options.php:148
+msgid "Edit your footer text."
+msgstr "Измените текст футера."
+
+#: admin/theme-options.php:156
+msgid "Enter your Feedburner URL e.g."
+msgstr "Впишите ссылку на ваш Feedburner. Например:"
+
+#: admin/theme-options.php:164
+msgid "Tracking Code"
+msgstr "Код трекинга"
+
+#: admin/theme-options.php:164
+msgid "Enter your Google Analytics (or any other) tracking code."
+msgstr "Впишите ваш код трекинга Google Analytics (или любой другой код трекинга)."
+
+#: admin/theme-options.php:194
+msgid "Show Post Tags"
+msgstr "Показывать метки записи"
+
+#: admin/theme-options.php:194
+msgid "Check this box to show post tags."
+msgstr "Отметьте этот чекбокс, чтобы показывать метки записи."
+
+#: admin/theme-options.php:202
+msgid "Disable Post Rating System"
+msgstr "Отключить систему голосования"
+
+#: admin/theme-options.php:202
+msgid "Check this box to disable post rating system."
+msgstr "Отметьте этот чекбокс, чтобы отключить систему голосования в записях."
+
+#: admin/theme-options.php:210
+msgid "Hide Post Comments Count"
+msgstr "Убрать значок с количеством комментариев."
+
+#: admin/theme-options.php:210
+msgid "Check this box to remove comments count from post meta."
+msgstr "Отметьте этот чекбокс, чтобы убрать значок с количеством комментариев."
+
+#: admin/theme-options.php:218
+msgid "Bit.ly Shortlinks"
+msgstr "Короткие ссылки Bit.ly"
+
+#: admin/theme-options.php:218
+msgid "Set up Bit.ly URL shortening service."
+msgstr "Настройте службу сокращения ссылок Bit.ly."
+
+#: admin/theme-options.php:370
+msgid "bitly Username"
+msgstr "Имя пользователя bitly"
+
+#: admin/theme-options.php:371
+msgid "bitly API Key"
+msgstr "API ключ bitly"
+
+#: admin/theme-options.php:372
+msgid "You can get your Username and API Key"
+msgstr "Вы можете получить ваше имя пользователя и API ключ"
+
+#: admin/theme-options.php:372
+msgid "here"
+msgstr "здесь"
+
+#: admin/theme-options.php:383
+msgid "Facebook Platform application ID"
+msgstr "ID приложения на Facebook"
+
+#: admin/theme-options.php:384
+msgid "–OR–"
+msgstr "–ИЛИ–"
+
+#: admin/theme-options.php:384
+msgid "Your Facebook ID"
+msgstr "Ваш ID на Facebook"
+
+#: admin/theme-options.php:247
+msgid "Home Keywords (comma separated)"
+msgstr "Метки главной страницы (отделенные запятой)"
+
+#: admin/theme-options.php:247
+msgid "Enter keywords for your site."
+msgstr "Впишите метки для вашего сайта."
+
+#: admin/theme-options.php:255
+msgid "Facebook Open Graph Tags"
+msgstr "Теги Open Graph для Facebook"
+
+#: admin/theme-options.php:255
+msgid "Check this box to add Open Graph meta tags to your site."
+msgstr "Отметьте этот чекбокс, чтобы добавить мета теги Open Graph на Ваш сайт."
+
+#: admin/theme-options.php:263
+msgid "Social Share buttons"
+msgstr "Социальные кнопки"
+
+#: admin/theme-options.php:389
+msgid "Enable tweet buttons"
+msgstr "Включить кнопку Tweet"
+
+#: admin/theme-options.php:390
+msgid "Your Twitter username"
+msgstr "Ваше имя пользователя в Твиттере"
+
+#: admin/theme-options.php:391
+msgid "Enable Facebook like buttons"
+msgstr "Включить кнопку Facebook like"
+
+#: admin/theme-options.php:392
+msgid "Enable Google +1 buttons"
+msgstr "Включить кнопку Google +1"
+
+#: includes/meta/post-meta.php:14
+msgid "Post Options"
+msgstr "Настройки записи"
+
+#: includes/meta/post-meta.php:20
+msgid "Show Post Title?"
+msgstr "Показывать заголовок записи?"
+
+#: includes/meta/post-meta.php:26
+msgid "Post Content"
+msgstr "Содержание записи"
+
+#: includes/meta/post-meta.php:31
+msgid "Full"
+msgstr "Полное"
+
+#: includes/meta/post-meta.php:35
+msgid "Excerpt"
+msgstr "Анонс"
+
+#: includes/meta/post-meta.php:47
+msgid "Page Options"
+msgstr "Настройки страницы"
+
+#: includes/meta/post-meta.php:53
+msgid "Hide Page Title?"
+msgstr "Спрятать заголовок страницы?"
+
+#: includes/meta/post-meta.php:58
+msgid "Disable Sharing?"
+msgstr "Отключить социальные инструменты?"
+
+#: includes/meta/post-meta.php:69
+msgid "Image"
+msgstr "Изображение"
+
+#: includes/meta/post-meta.php:75
+msgid "Image File"
+msgstr "Файл изображения"
+
+#: includes/meta/post-meta.php:78
+#: includes/meta/post-meta.php:96
+#: includes/meta/post-meta.php:176
+#: includes/meta/post-meta.php:181
+#: includes/meta/post-meta.php:188
+#: includes/meta/post-meta.php:195
+#: includes/meta/post-meta.php:230
+msgid "Upload"
+msgstr "Выбрать"
+
+#: includes/meta/admin-metaboxes.php:72
+msgid "Remove Image"
+msgstr "Убрать изображение"
+
+#: includes/meta/post-meta.php:87
+msgid "Gallery"
+msgstr "Галерея"
+
+#: includes/meta/post-meta.php:93
+msgid "Upload Images"
+msgstr "Загрузка изображений"
+
+#: includes/meta/post-meta.php:99
+msgid "Enable Autoplay?"
+msgstr "Включить автопереключение?"
+
+#: includes/meta/post-meta.php:110
+#: includes/meta/post-meta.php:116
+msgid "Quote"
+msgstr "Цитата"
+
+#: includes/meta/post-meta.php:121
+msgid "Author"
+msgstr "Автор"
+
+#: includes/meta/post-meta.php:122
+#: includes/meta/post-meta.php:153
+msgid "(optional)"
+msgstr "(необязательно)"
+
+#: includes/meta/post-meta.php:133
+msgid "Link"
+msgstr "Ссылка"
+
+#: includes/meta/post-meta.php:139
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/meta/post-meta.php:146
+msgid "(with http://)"
+msgstr "(с http://)"
+
+#: includes/meta/post-meta.php:152
+msgid "Description"
+msgstr "Описание"
+
+#: includes/meta/post-meta.php:165
+msgid "Video Settings"
+msgstr "Видео"
+
+#: includes/meta/post-meta.php:171
+msgid "MP4 File URL"
+msgstr "Ссылка на файл MP4"
+
+#: includes/meta/post-meta.php:177
+msgid "WEBM File URL"
+msgstr "Ссылка на файл WEBM"
+
+#: includes/meta/post-meta.php:178
+msgid "(for Firefox 4 and Opera)"
+msgstr "(для Firefox 4 и Opera)"
+
+#: includes/meta/post-meta.php:184
+msgid "OGG File URL"
+msgstr "Ссылка на файл OGG"
+
+#: includes/meta/post-meta.php:185
+msgid "(for Firefox 3)"
+msgstr "(для Firefox 3)"
+
+#: includes/meta/post-meta.php:191
+msgid "Poster Image"
+msgstr "Постер"
+
+#: includes/meta/post-meta.php:192
+msgid "The preview image should be 540px wide."
+msgstr "Изображение должно быть 540px в ширину"
+
+#: includes/meta/post-meta.php:204
+msgid "Embed External"
+msgstr "Вставить с других сайтов"
+
+#: includes/meta/post-meta.php:210
+msgid "Video URL or Embed Code"
+msgstr "Ссылка на видео или код встраивания"
+
+#: includes/meta/post-meta.php:221
+#: includes/meta/post-meta.php:263
+msgid "Audio Settings"
+msgstr "Аудио"
+
+#: includes/meta/post-meta.php:227
+msgid "Upload Files"
+msgstr "Загрузка файлов"
+
+#: includes/meta/post-meta.php:233
+#: includes/meta/post-meta.php:269
+msgid "Allow Downloads?"
+msgstr "Разрешить скачивание?"
+
+#: includes/meta/post-meta.php:245
+msgid "Embed Soundcloud Player"
+msgstr "Встроить аудио с Soundcloud"
+
+#: includes/meta/post-meta.php:251
+msgid "Embed URL"
+msgstr "Ссылка для встраивания"
+
+#: includes/widget-flickr.php:18
+msgid "Display your Flickr photos"
+msgstr "Картинки с Flickr"
+
+#: includes/widget-flickr.php:24
+msgid "Flickr Photos"
+msgstr "Flickr"
+
+#: includes/widget-flickr.php:76
+msgid "My Photostream"
+msgstr "Мои фотографии"
+
+#: includes/widget-flickr.php:85
+#: includes/widget-most-commented.php:80
+#: includes/widget-most-liked.php:94
+#: includes/widget-post-formats.php:124
+#: includes/widget-social-profiles.php:138
+#: includes/widget-tweets.php:88
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: includes/widget-flickr.php:95
+msgid "Number of Photos:"
+msgstr "Количество фотографий"
+
+#: includes/widget-flickr.php:104
+msgid "Type (user or group):"
+msgstr "Тип (пользователь или группа):"
+
+#: includes/widget-flickr.php:106
+msgid "user"
+msgstr "пользователь"
+
+#: includes/widget-flickr.php:107
+msgid "group"
+msgstr "группа"
+
+#: includes/widget-flickr.php:112
+msgid "Display (random or latest):"
+msgstr "Показывать (случайно или последние)"
+
+#: includes/widget-flickr.php:114
+msgid "random"
+msgstr "случайно"
+
+#: includes/widget-flickr.php:115
+msgid "latest"
+msgstr "последние"
+
+#: includes/widget-most-commented.php:18
+msgid "The most commented posts on your blog"
+msgstr "Записи с самым большим количеством комментариев"
+
+#: includes/widget-most-commented.php:23
+#: includes/widget-most-commented.php:74
+msgid "Most Commented Posts"
+msgstr "Самые комментируемые записи"
+
+#: includes/widget-most-commented.php:85
+#: includes/widget-most-liked.php:99
+msgid "Number of Posts to Show:"
+msgstr "Количество записей:"
+
+#: includes/widget-most-liked.php:18
+msgid "The most liked posts on your blog"
+msgstr "Записи с самым большим количеством голосов"
+
+#: includes/widget-most-liked.php:23
+#: includes/widget-most-liked.php:88
+msgid "Most Liked Posts"
+msgstr "Популярные записи"
+
+#: includes/widget-post-formats.php:18
+msgid "A list or dropdown of post formats"
+msgstr "Список или выпадающее меню форматов записей"
+
+#: includes/widget-post-formats.php:23
+#: includes/widget-post-formats.php:32
+#: includes/widget-post-formats.php:118
+msgid "Post Formats"
+msgstr "Форматы записей"
+
+#: includes/widget-post-formats.php:47
+msgid "Select Post Format"
+msgstr "Выбрать формат записей"
+
+#: includes/widget-post-formats.php:79
+msgid "View all %format posts"
+msgstr "Просмотреть все записи с форматом '%format'"
+
+#: includes/widget-post-formats.php:130
+msgid "Display as dropdown"
+msgstr "В виде выпадающего меню"
+
+#: includes/widget-post-formats.php:133
+msgid "Show post counts"
+msgstr "Отображать число записей"
+
+#: includes/widget-social-profiles.php:18
+msgid "Display your social profiles"
+msgstr "Ссылки на ваши социальные профили"
+
+#: includes/widget-social-profiles.php:24
+msgid "Social Profiles"
+msgstr "Социальные профили"
+
+#: includes/widget-social-profiles.php:131
+msgid "My Social Profiles"
+msgstr "Мои социальные профили"
+
+#: includes/widget-social-profiles.php:143
+msgid "Text:"
+msgstr "Текст:"
+
+#: includes/widget-social-profiles.php:148
+msgid "Note: Make sure you include FULL URL i.e."
+msgstr "Убедитесь, что Вы вписали ПОЛНЫЙ URL. Например:"
+
+#: includes/widget-social-profiles.php:152
+msgid "Fill the url to make an icon visible."
+msgstr "Впишите адрес в поле, чтобы отобразить иконку."
+
+#: includes/widget-social-profiles.php:212
+msgid "Add email button (your admin email will be used)"
+msgstr "Добавить кнопку e-mail (будет использован e-mail администратора)"
+
+#: includes/widget-social-profiles.php:212
+msgid "Add rss feed button"
+msgstr "Добавить кнопку RSS"
+
+#: includes/widget-tweets.php:18
+msgid "Display your latest tweets"
+msgstr "Последние твиты"
+
+#: includes/widget-tweets.php:24
+msgid "Twitter"
+msgstr "Твиттер"
+
+#: includes/widget-tweets.php:47
+msgid "Follow Me On Twitter"
+msgstr "Читайте меня в Твиттере"
+
+#: includes/widget-tweets.php:80
+msgid "Latest Tweets"
+msgstr "Последние твиты"
+
+#: includes/widget-tweets.php:83
+msgid "Follow"
+msgstr "Читайте меня"
+
+#: includes/widget-tweets.php:93
+msgid "Twitter Username:"
+msgstr "Имя пользователя"
+
+#: includes/widget-tweets.php:98
+msgid "Number of tweets (max 20):"
+msgstr "Количество твитов (макс. 20)"
+
+#: includes/widget-tweets.php:103
+msgid "Follow Text:"
+msgstr "Текст"
+
+#: includes/stop-ie6/errorPage.php:22
+msgid "It looks like you are still using Internet Explorer 7 or earlier, which is not supported by this website. Please update to a cooler browser:"
+msgstr "Кажется вы используете устаревший браузер Internet Explorer 7 или более ранней версии, который не поддерживается на этом сайте. Настоятельно вам рекомендуем выбрать и установить любой из современных браузеров:"
+
