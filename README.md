@@ -4,6 +4,8 @@ I made this Wordpress theme for sale on ThemeForest back in 2012. It was quite s
 
 It features skeuomorphic design, which was popular at a time.
 
+![Preview](https://raw.githubusercontent.com/yenbekbay/raffinade/master/previews/02_preview2.jpg)
+
 # MIT License (MIT)
 
 Copyright (c) 2015 Ayan Yenbekbay
